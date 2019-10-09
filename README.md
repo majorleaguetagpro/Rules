@@ -9,7 +9,7 @@ Additional MLTP Season 19 Resources
 * [CRC Votes](https://docs.google.com/spreadsheets/d/1YGcURN2SgCwK1lMLL6H_BcliQVA83pMmgRsYQkRbAIQ/edit#gid=0)
 * [Draft Packet](https://docs.google.com/spreadsheets/d/1VQ2cirkSYAICashhtFPLhi56OkaFZ5LBPSJ6mF4eN5g)
 
-For any questions please contact a commissioner on discord. MLTP S19 CRC:
+For any questions please contact a commissioner on discord. MLTP S19 CRC members:
 * Destar#0001
 * FLY#9968
 * Poeticalto#5095
@@ -86,7 +86,7 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC:
 2. Captains will pick a home server for their team following the draft
     * The home server for a majors and minors team may be different
 
-### Section 1 - Maps
+### Section 2 - Maps
 1. The CRC will run a vote for the captains to select the maps.
 2. The number of maps played will be equal to the number of weeks in the regular season.
 3. Each map in the MLTP rotation will be played for two games.
@@ -94,7 +94,7 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC:
     * The first map of a week will be the second map from the previous week.
     * The first map of the season will also be the last.
 
-### Section 2 - Game Settings
+### Section 3 - Game Settings
 1. The settings from the "Competitive Settings" checkbox must be used. This includes:
     * 10 minute duration
     * No cap limit
@@ -252,23 +252,33 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
         * Pornographic linkings
 4. Do not personally attack others. Trash talk is not meant to be directed at an individual’s life outside of TagPro.
 5. In rare cases, inappropriate out of league behavior may lead to CRC action.
-6. Only captains or vice-captains can resolve gameday disputes.
-7. Players need to be respectful of the other team when typing during a match.
-8. Disciplinary action can be any of the following:
+6. Players need to be respectful of the other team when typing during a match.
+7. Disciplinary action can be any of the following:
     * Private Warning
     * Public Warning
     * Suspension
     * Lifetime Ban
-9. Players who quit or attempt to manipulate away from their team may receive an indefinite ban on a case-by-case basis.
-10. Punishments are determined on a case-by-case basis by the CRC.
+8. Players who quit or attempt to manipulate away from their team may receive an indefinite ban on a case-by-case basis.
+9. Punishments are determined on a case-by-case basis by the CRC.
 
 ## Article VIII - Playoffs
 
-### Section 1 - Teams
+### Section 1 - Playoff Rounds
 1. The top 8 teams from majors and minors will make playoffs
+2. There will be 3 rounds for playoffs
+    * Quarterfinals (Equidistant Eight)
+        * The #1 seeded team will play the #8 seeded team.
+        * The #2 seeded team will play the #7 seeded team.
+        * The #3 seeded team will play the #6 seeded team.
+        * The #4 seeded team will play the #5 seeded team.
+    * Semifinals (Foci Four)
+        * The winner of #1 vs #8 will play the winner of #4 vs #5. 
+        * The winner of #2 vs #7 will play the winner of #3 vs #6. 
+    * Finals (Superball)
+        * The two remaining teams will play for the championship.
 
 ### Section 2 - Tiebreakers
-1. Tiebreakers will be determined by the following:
+1. Tiebreakers will be determined in the following order:
     1. Head-to-head results between the teams involved
     2. Cap difference
     3. Head-to-head cap difference
@@ -276,7 +286,7 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
     5. Each team picks one person to compete in a five minute match of Duel.
 
 ### Section 3 - Maps
-1. The pick/ban process for selecting maps will be as follows:
+1. The pick/ban process for selecting maps will occur in the following order:
     1. The higher seeded team will decide if they want to go first, or second.
     2. Team "A" will ban one of the 7 regular season maps.
     3. Team "B" will ban one of the 6 remaining maps.
@@ -290,15 +300,3 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
 ### Section 4 - Matches
 1. There will be a best of three games following the regular season game settings.
 2. The third game is only played if necessary to determine a winner.
-
-### Section 5 - Playoff Rounds
-1. Quarterfinals (Equidistant Eight)
-    * The #1 seeded team will play the #8 seeded team.
-    * The #2 seeded team will play the #7 seeded team.
-    * The #3 seeded team will play the #6 seeded team.
-    * The #4 seeded team will play the #5 seeded team.
-2. Semifinals (Foci Four)
-    * The winner of #1 vs #8 will play the winner of #4 vs #5. 
-    * The winner of #2 vs #7 will play the winner of #3 vs #6. 
-3. Finals (Superball)
-    * The two remaining teams will play for the championship.
