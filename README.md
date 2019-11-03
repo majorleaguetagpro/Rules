@@ -267,13 +267,9 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
 1. The top 8 teams from majors and minors will make playoffs
 2. There will be 3 rounds for playoffs
     * Quarterfinals (Equidistant Eight)
-        * The #1 seeded team will play the #8 seeded team.
-        * The #2 seeded team will play the #7 seeded team.
-        * The #3 seeded team will play the #6 seeded team.
-        * The #4 seeded team will play the #5 seeded team.
+        * The top 4 seeded teams will choose their opponents in order from any of the remaining lower 4 seeded teams.
     * Semifinals (Foci Four)
-        * The winner of #1 vs #8 will play the winner of #4 vs #5. 
-        * The winner of #2 vs #7 will play the winner of #3 vs #6. 
+        * The top 2 seeded teams will choose their opponents in order from any of the remaining lower 2 seeded teams.
     * Finals (Superball)
         * The two remaining teams will play for the championship.
 
