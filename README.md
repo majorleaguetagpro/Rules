@@ -1,15 +1,15 @@
 # Major League TagPro Rules
 
-## Season 19
+## Season 20
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
-Additional MLTP Season 19 Resources
-* [MLTP Schedule](https://docs.google.com/spreadsheets/d/1fGVhtcUPc0cXYNFen7OhLZIWLBRsFZSa0Qpt89Dfcow)
-* [CRC Votes](https://docs.google.com/spreadsheets/d/1YGcURN2SgCwK1lMLL6H_BcliQVA83pMmgRsYQkRbAIQ/edit#gid=0)
-* [Draft Packet](https://docs.google.com/spreadsheets/d/1VQ2cirkSYAICashhtFPLhi56OkaFZ5LBPSJ6mF4eN5g)
+Additional MLTP Season 20 Resources
+* [MLTP Schedule](https://docs.google.com/spreadsheets/d/1OMOT4GNVNcklrtRUy1YkPiu6d8eZSLnS3Joo5BXAbds)
+* [CRC Votes](https://docs.google.com/spreadsheets/d/1sst-k5EoQA4yEyy72TzGO9FLgKmADKbvtedTb6jitY8)
+* [Draft Packet](https://docs.google.com/spreadsheets/d/1K-igxUYEXKhqNsyBscbaDOi_AuQyCMAsqo0RmtD0jPY/edit#gid=1932040053)
 
-For any questions please contact a commissioner on discord. MLTP S19 CRC members:
+For any questions please contact a commissioner on discord. MLTP CRC members:
 * Destar#0001
 * FLY#9968
 * Poeticalto#5095
@@ -39,14 +39,13 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
 3. CRC decisions will be passed with a simple majority vote.
 4. Elections will be run at the end of every season to select a new CRC for the next season.
     * Applications will be posted on [/r/MLTP](https://www.reddit.com/r/MLTP/) and open to everyone at the end of every season.
-    * The current CRC will elect one applicant to be on the CRC next season.
-    * The remaining CRC positions will be filled using a vote by the current season’s captains after discussion of the candidates.
+    * CRC positions will be filled using a vote by the current season’s captains after discussion of the candidates.
     * The current CRC will continue to have authority over MLTP until the next CRC is elected.
 
 ### Section 3 - Captains
 1. Each team shall have a single captain.
 2. Duties of the Captains:
-    * Choosing a team name for their majors and minors teams
+    * Choosing a team name
     * Using the captains veto to adjust rules when necessary
     * Participating in votes and/or discussions when requested by the CRC
     * Creating a team via draft
@@ -54,21 +53,20 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
     * Deciding team lineups
     * Voting on the next CRC members at the end of this season.
 3. Captains are selected by the CRC to fulfill one of the following roles:
-    * Any captain playing in majors (MLTP) will be a **playing captain**.
-    * Any captain playing in minors (mLTP) will be a **non-playing captain minors (NPCm)**.
-    * Any captain not playing in MLTP will be a **non-playing captain (NPC)**.
-4. Prior to being selected as captain, NPCs and NPCms will find a player who agrees to join their team as a **preliminary pick**. 
-5. Playing captains and NPCs may find a player prior to the minors draft who agrees to join their team as a **minors preliminary pick**.
-6. Each team will have a vice-captain who will fill the role of captain in the event the captain is not available.
+    * Any captain playing in majors (MLTP) will be a **majors playing captain**.
+     * Any captain playing in minors (mLTP) will be a **minors playing captain**.
+    * Any captain not playing in MLTP or mLTP will be a **non-playing captain (NPC)**.
+4. Prior to being selected as captain, NPCs will find a player who agrees to join their team as a **preliminary pick**. 
+5. Each team will have a vice-captain who will fill the role of captain in the event the captain is not available.
     * Vice-Captains by default are the preliminary pick, or if unavailable the highest TC costing majors player, but can be changed by the captain at any time.
-7. Captains Veto:
+6. Captains Veto:
     * Any rule can be created or changed by a 2/3 majority of all the captains.
-    * Any captain may request a veto vote directly to the CRC. If there is support from at least half of the captains the CRC must conduct an official vote.
-8. Captains may change any rules for a match between their teams as long as they are in agreement and have CRC approval for the change.
+    * Any captain may request a veto vote directly to the CRC. 
+7. Captains may change any rules for a match between their teams as long as they are in agreement and have CRC approval for the change.
 
 ### Section 4 - Registration
 1. A player registers for MLTP by [joining the the Competitive TagPro discord](https://discord.gg/JCyQaZH), typing **!naltp**, and completing the bot questionnaire
-    * Players may unregister by messaging any CRC member asking to be removed.
+    * Players may unregister by messaging any CRC member asking to be removed or by using **!naltp**.
     * Players who wish to edit their signup may do so by typing **!naltp** again. Edits made after a signup deadline must be approved by the CRC to be valid.
 2. Players are ineligible for the draft if they
     * Are unavailable for over half of the regular season.
@@ -82,12 +80,14 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
 ## Article II - League Structure
 
 ### Section 1 - Teams
-1. There will be 10 teams
-2. Captains will pick a home server for their team following the draft
-    * The home server for a majors and minors team may be different
+1. There will be 10 MLTP teams and 10 mLTP teams
+2. MLTP and mLTP teams will be unaffiliated
 
 ### Section 2 - Maps
 1. The CRC will run a vote for the captains to select the maps.
+   * At least three of the maps must not have been played in MLTP previously - these will be considered "new" maps. 
+   * A new map can be an updated version of an old map.
+   * There will be a MLTP Map Test Committee (MMTC) that will review publicly submitted maps and provide a recommendation to the captains.
 2. The number of maps played will be equal to the number of weeks in the regular season.
 3. Each map in the MLTP rotation will be played for two games.
 4. Two maps will be played per week.
@@ -100,66 +100,69 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
     * No cap limit
     * User scripts disabled
     * Respawn warnings disabled
+2. The server will be set to Dallas, TX
 
 ## Article III - Rosters
 
 ### Section 1 - Rosters
-1. Teams will have a roster of 8 players.
-2. Captains may drop a player at any time by notifying the CRC.
-3. Players may appeal to the CRC for a forced drop or trade if they believe that they are not receiving fair playing time on their team.
-4. If a player is dropped from a team due to gross inactivity they will be ineligible to join any MLTP team except the one they were dropped from.
+1. Teams will have a roster of 4 players.
+2. If a player is dropped from a team due to gross inactivity they will be ineligible to join any MLTP team except the one they were dropped from.
     * Gross inactivity includes not showing up to games, practices, as well as not returning messages from team members and commissioners.
     * Players may their appeal gross inactivity status to the CRC.
-
+3. Captains can complete roster transactions using the Roster Form.
+   * The Roster Form is used for call ups, drops, bids, and loans.
+   
 ### Section 2 - Eligibility
-1. Players drafted in the minors auction are dual eligible for majors and minors.
-2. Players drafted in the majors auction are restricted to minors for a team once playing any minutes for that minors team.
-3. Any player banned from TagPro is also banned from playing MLTP for the duration of their ban.
+1. Any player banned from TagPro is also banned from playing MLTP for the duration of their ban.
+2. If a mLTP player is called up to MLTP, they will be eligible to play in both MLTP and mLTP after their call up.
 
 ### Section 3 - Trades
 1. Trades will go into effect once approved by the CRC.
 2. Captains and Preliminary Picks cannot be traded.
-3. The trade deadline will be end of the FA period after Week 4.
+3. The trade deadline will be end of the FA period after Week 5.
 
 ### Section 4 - Free Agency
 1. Teams will use free agency to add a free agent to their roster.
     * A free agent is defined as any player who is eligible as a substitute or was dropped since the last free agency period.
-2. Free agency periods will run from Tuesday to Thursday each week.
-3. Teams will be given 200 tagcoins in a free-agent acquisition budget after the draft.
-4. Teams will use the free agency form to submit blind bids with their remaining tagcoins on any available free agents they wish to draft.
-5. In the case of tied bids the winner will be the team lower in standings or randomly chosen in the case of equal placement in the standings.
+2. Roster Transactions (not including loans) will be processed during FA periods. 
+    * The MLTP FA period opens at 12:01 AM on Monday morning and closes at 11:59 PM on Saturday night. 
+    * The mLTP FA period opens at 12:01 AM on Tuesday morning and closes at 11:59 PM on Sunday night.    
+3. When a player is dropped from a roster all captains in the level will have until 11:59 PM the following night to submit a bid otherwise that player will enter the FA period for the lower tier.
+4. Teams will be given 5 tagcoins in a free-agent acquisition budget after the draft.
+5. TagCoins will be awarded according to standing order. The 1st place team will receive 1 tagcoins, the 10th place team will receive 10 tagcoins.
+6. Teams will use the free agency form to submit bids with their remaining tagcoins on any available free agents they wish to draft.
+7. In the case of tied bids the winner will be the team lower in standings or randomly chosen in the case of equal placement in the standings.
 
 ### Section 5 - Loans
-1. Any player in NLTP that is not a direct-playing captain is eligible to be a substitute for minors or majors as a loan. 
-2. Players may be loaned up to 80 minutes per team.
-3. A loaned player can only play in one match per week.
+1. Any player in mLTP or NLTP is eligible to be a substitute for MLTP as a loan. 
+2. Any player in NLTP is eligible to be a subsitute for mLTP as a loan.
+3. Players may be loaned up to 80 minutes per team.
+4. A loaned player can only play in one MLTP match and one mLTP match per week.
 
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline for MLTP experienced players from Season 19 to be eligible for the draft is Thursday, September 12th at 11:59pm ET.
+1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is December 22nd at 11:59pm ET.
     * MLTP experienced players includes any player who has 100 or more minutes of MLTP experience.
-2. All other players have a deadline of Saturday, September 14th at 11:59pm ET.
+2. All other players have a deadline of January 4th at 11:59pm ET.
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, September 15th starting at 7pm ET.
+1. The Majors Auction Draft will take place on Sunday, January 5th.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
-2. The Minors Auction Draft will take place on Monday, September 16th starting at 9pm ET.
-    * The Minors Auction Draft will continue until every roster has a total of 8 players.
+2. The Minors Auction Draft will take place on Monday, January 6th.
+    * The Minors Auction Draft will continue until every roster has a total of 4 players.
 4. Prior to both auction drafts, captains will be alloted tagcoins by the CRC to be spent in the draft.
     * The amount of tagcoins allotted may vary depending on the relative skill of any preliminary players.
-5. The nomination order will be randomized prior to the draft.
-6. The maximum bid a captain can make on a player is 100 TC. If a captain bids 100 TC on a player then all captains will at least 100 remaining TC will be allowed to match the bid. At this point the player will be awarded to a captain based on random selection.
+5. The nomination order will be based on tagcoin allotments, with the captain with the most TC going first.
+6. There is no maximum bid.
 
 ## Article V - Matches
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
-2. For each game teams will split halves depending on their home server. 
-    * Server splits will be based on [this chart.](https://drive.google.com/open?id=1eYJOGMvA8EG3Ja-2uqx9x8HX4iRXZfWhmP1sijkfPOI)
+2. For each game teams will play on the Dallas server. 
 2. In the event of a tie after two halves, an overtime period will be played.
     * The default overtime format will be a 10 minute period, split into 5 minute halves. These periods will be played until a winner is found. 
-    * Half 1 of the overtime period will start on the same server from the first half of the game and then servers/colors will be alternated.
     * Captains may mutually agree to use a "Golden Cap" format. These agreements can happen before any 10 minute overtime period starts.
         * Golden Cap is defined as a 20 minute period with a one cap limit. The first team to cap wins.
         * Golden Cap periods will be played until a team wins.
@@ -175,12 +178,8 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
 
 ### Section 3 - Lag-outs
 1. If a player becomes inactive due to lag, teams are be permitted to have five players (four active, one inactive) in the match.
-2. If there are ever more than four players playing for a single team then an appeal to the CRC may be made to take corrective action.
-3. Minors teams may call a timeout in the case that a player lags out.
-    * The player lagging out must disconnect immediately or cease all game input aside from attempting to disconnect.
-    * Play should continue after a timeout is called until the team that called timeout has their flag in base or makes a return.
-    * After a cap is made a flag is considered in base, regrab does not prevent play from stopping if a timeout was called.
-    * The lagged out player may not return for the remainder of the half.
+2. If there are ever more than four players actively playing for a single team then an appeal to the CRC may be made to take corrective action.
+3. Timeouts cannot be called. Teams are recommended to maintain a substitute should lag be an issue. 
 
 ### Section 4 - Scheduling
 1. Matches are scheduled for Sunday by default for majors and Monday by default for minors
@@ -223,7 +222,7 @@ For any questions please contact a commissioner on discord. MLTP S19 CRC members
 1. Smurfing is the act of using an alias to register and/or play for a league that you otherwise would not be eligible to play in or would play in with a different draft stock.
 2. Players must play under their registered name, to avoid any suspicion of smurfing. Teams playing against a player with an unregistered name should notify the opposing team before the match starts, or between halves, if they want the situation resolved.
 3. Smurfing in any league will result in a ban from m/MLTP play.
-4. Players must use their registered name in-game.
+4. Players must use a registered name in-game. 
 
 ### Section 3 - Whistleblowing
 1. Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower.
