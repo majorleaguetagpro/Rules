@@ -1,12 +1,11 @@
 # Major League TagPro Rules
 
-## Season 20
+## Season 21
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
-Additional MLTP Season 20 Resources
+Additional MLTP Season 21 Resources
 * [MLTP Schedule](https://docs.google.com/spreadsheets/d/1OMOT4GNVNcklrtRUy1YkPiu6d8eZSLnS3Joo5BXAbds)
-* [CRC Votes](https://docs.google.com/spreadsheets/d/1sst-k5EoQA4yEyy72TzGO9FLgKmADKbvtedTb6jitY8)
 * [Draft Packet](https://docs.google.com/spreadsheets/d/1K-igxUYEXKhqNsyBscbaDOi_AuQyCMAsqo0RmtD0jPY/edit#gid=1932040053)
 
 For any questions please contact a commissioner on discord. MLTP CRC members:
