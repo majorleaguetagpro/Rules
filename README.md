@@ -1,18 +1,8 @@
 # Major League TagPro Rules
 
-## Season 20
+## Season 21
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
-
-Additional MLTP Season 20 Resources
-* [MLTP Schedule](https://docs.google.com/spreadsheets/d/1OMOT4GNVNcklrtRUy1YkPiu6d8eZSLnS3Joo5BXAbds)
-* [CRC Votes](https://docs.google.com/spreadsheets/d/1sst-k5EoQA4yEyy72TzGO9FLgKmADKbvtedTb6jitY8)
-* [Draft Packet](https://docs.google.com/spreadsheets/d/1K-igxUYEXKhqNsyBscbaDOi_AuQyCMAsqo0RmtD0jPY/edit#gid=1932040053)
-
-For any questions please contact a commissioner on discord. MLTP CRC members:
-* Destar#0001
-* FLY#9968
-* Poeticalto#5095
 
 ## Article I - Basics
 
@@ -80,14 +70,11 @@ For any questions please contact a commissioner on discord. MLTP CRC members:
 ## Article II - League Structure
 
 ### Section 1 - Teams
-1. There will be 10 MLTP teams and 10 mLTP teams
+1. There will be 12 MLTP teams and 12 mLTP teams
 2. MLTP and mLTP teams will be unaffiliated
 
 ### Section 2 - Maps
 1. The CRC will run a vote for the captains to select the maps.
-   * At least three of the maps must not have been played in MLTP previously - these will be considered "new" maps. 
-   * A new map can be an updated version of an old map.
-   * There will be a MLTP Map Test Committee (MMTC) that will review publicly submitted maps and provide a recommendation to the captains.
 2. The number of maps played will be equal to the number of weeks in the regular season.
 3. Each map in the MLTP rotation will be played for two games.
 4. Two maps will be played per week.
@@ -125,16 +112,50 @@ For any questions please contact a commissioner on discord. MLTP CRC members:
 1. Teams will use free agency to add a free agent to their roster.
     * A free agent is defined as any player who is eligible as a substitute or was dropped since the last free agency period.
 2. Roster Transactions (not including loans) will be processed during FA periods. 
-    * The MLTP FA period opens at 12:01 AM on Monday morning and closes at 11:59 PM on Saturday night. 
-    * The mLTP FA period opens at 12:01 AM on Tuesday morning and closes at 11:59 PM on Sunday night.    
+    * The MLTP FA period opens at 12:01 AM on Monday morning and closes at 11:59 PM on Tuesday night. 
+    * The mLTP FA period opens at 12:01 AM on Tuesday morning and closes at 11:59 PM on Wednesday night.    
 3. When a player is dropped from a roster all captains in the level will have until 11:59 PM the following night to submit a bid otherwise that player will enter the FA period for the lower tier.
 4. Teams will be given 5 tagcoins in a free-agent acquisition budget after the draft.
-5. TagCoins will be awarded according to standing order. The 1st place team will receive 1 tagcoins, the 10th place team will receive 10 tagcoins.
+5. TagCoins will be awarded according to standing order. The 1st place team will receive 1 tagcoins, the 10th place team will receive 10 tagcoins. This will begin after the third week of the season. For the first two weeks each team will receive 5 tagcoins.
 6. Teams will use the free agency form to submit bids with their remaining tagcoins on any available free agents they wish to draft.
 7. In the case of tied bids the winner will be the team lower in standings or randomly chosen in the case of equal placement in the standings.
 
-### Section 5 - Loans
-1. Any player in mLTP or NLTP is eligible to be a substitute for MLTP as a loan. 
+
+### Section 5 - Dual-Eligible Players
+
+1. Definitions
+   * Each MLTP team will select two players to act as Dual-Eligible Players (DEPs). 
+   * Eligible players are all those eligible for the Majors Auction and available on Sundays.
+   * The team that owns the rights to the player will be called the Owning Team. 
+   The team that does not own the rights to the player will be called the Non-Owning Team. 
+   * The right of first refusal is the right to enter into a transaction for a player before another team can. If the team with this right declines to enter into a transaction, other teams are allowed to complete that transaction. 
+2. Scope of Rights
+   * Owning the DEP rights to a player allows the team to: 
+   * Have the right of first refusal to loan that player.
+   * Have the right of first refusal to call up that player.
+3. Loans
+   * A DEP can be loaned at any point during the regular season and playoffs.
+   * If the Owning Team would like to loan a player, they should submit the roster transaction form to the CRC to formalize the loan. 
+   * If a Non-Owning Team would like to loan a player they should submit the roster transaction form to the CRC to request the loan. The CRC will contact the Owning Team to inform them of the intended loan. 
+4. Call Ups
+   * A DEP can be called up at any point during the regular season. 
+   * If the Owning Team would like to call up a player, they should submit the roster transaction form to the CRC to formalize the call up. 
+   * If a Non-Owning Team wishes to call up a player, they should submit the roster transaction form to request the call up. At this point, the CRC will inform the Owning Team of the intended call up. 
+   * The Owning Team will have the right of first refusal. Therefore, the owning team can choose to drop a player to call up the player in question. 
+   * Teams can execute a trade before forfeiting their rights to the player.
+   * If the Owning Team does not add the player within the FA period (Tuesday at Midnight ET), then the player will be added to the Non-Owning Team’s roster. 
+   * A player can decline to be called up. At this point any DEP rights are forfeited and the team can claim rights to any unclaimed player. The declining player is also barred from being called up for the remainder of the season.
+5. Handling of Dropped Players
+   * In the instance that an Owning Team forgoes the right of first refusal, they will have the first choice in picking up the player that is dropped for the DEP. Otherwise the player will continue into MLTP FA. 
+   * If the player is not picked up in MLTP FA, then the team whose DEP was claimed  receives the rights of the dropped player as a DEP. 
+   * Dropped players will not be eligible to be added to a mLTP roster until the conclusion of Week 4. Between being dropped and this period, the dropped player can be loaned or called up by any MLTP teams.
+   * EXCEPTION: If the called up player no longer wishes to play mLTP, then the dropped player will be added to the mLTP roster losing their player. This player then becomes dual-eligible for MLTP and mLTP. 
+6. Add/Drop of Rights
+   * MLTP teams can add and drop rights at any time. They will be processed on a first-come-first-serve basis. 
+Eligible rights for players are any players on a mLTP or NLTP roster. 
+
+### Section 6 - Loans
+1. Any player in non-DEP mLTP or NLTP player is eligible to be a substitute for MLTP as a loan. A DEP mLTP player is subject to the rules in Section 5.
 2. Any player in NLTP is eligible to be a subsitute for mLTP as a loan.
 3. Players may be loaned up to 80 minutes per team.
 4. A loaned player can only play in one MLTP match and one mLTP match per week.
@@ -147,9 +168,10 @@ For any questions please contact a commissioner on discord. MLTP CRC members:
 2. All other players have a deadline of January 4th at 11:59pm ET.
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, January 5th.
+1. The Majors Auction Draft will take place on Sunday, April 12th.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
-2. The Minors Auction Draft will take place on Monday, January 6th.
+2. At the conclusion of the Majors Auction Draft, teams will snake draft to select their DEPs. 
+3. The Minors Auction Draft will take place on Monday, January 13th.
     * The Minors Auction Draft will continue until every roster has a total of 4 players.
 4. Prior to both auction drafts, captains will be alloted tagcoins by the CRC to be spent in the draft.
     * The amount of tagcoins allotted may vary depending on the relative skill of any preliminary players.
