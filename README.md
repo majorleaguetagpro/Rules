@@ -126,7 +126,7 @@
 1. Players who are dropped from a majors roster after the minors draft has concluded will only be eligible for minors under the following circumstances:
    * The player in question was dropped from a majors roster prior to the conclusion of the week 3 FA period.
    * The player in question is not on a majors roster after the week 3 FA period has concluded.
-2. Prior to Week 4 minors matches (10/4), one free agency period will be conducted for all eligble players:
+2. Prior to Week 4 minors matches (10/4), one free agency period will be conducted for all eligible players:
    * Minors teams will have a chance to add a player through a waiver system.
    * Priority in the waiver system will be determined by the inverse ranking of the minors standings prior to Week 4 matches.
    * Waiver priority cannot be traded.
