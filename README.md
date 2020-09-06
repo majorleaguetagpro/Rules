@@ -174,15 +174,15 @@ Eligible rights for players are any players on a mLTP or NLTP roster.
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is December 22nd at 11:59pm ET.
+1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is one week before the day of the MLTP draft.
     * MLTP experienced players includes any player who has 100 or more minutes of MLTP experience.
-2. All other players have a deadline of January 4th at 11:59pm ET.
+2. All other players have a deadline of three days before the MLTP draft..
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, April 12th.
+1. The Majors Auction Draft will take place on Sunday, August 30.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
 2. At the conclusion of the Majors Auction Draft, teams will snake draft to select their DEPs. 
-3. The Minors Auction Draft will take place on Monday, January 13th.
+3. The Minors Auction Draft will take place on Thursday, September 3.
     * The Minors Auction Draft will continue until every roster has a total of 4 players.
 4. Prior to both auction drafts, captains will be alloted tagcoins by the CRC to be spent in the draft.
     * The amount of tagcoins allotted may vary depending on the relative skill of any preliminary players.
