@@ -1,6 +1,6 @@
 # Major League TagPro Rules
 
-## Season 21
+## Season 22
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
@@ -70,7 +70,7 @@
 ## Article II - League Structure
 
 ### Section 1 - Teams
-1. There will be 12 MLTP teams and 12 mLTP teams
+1. There will be 8 MLTP teams and 12 mLTP teams
 2. MLTP and mLTP teams will be unaffiliated
 
 ### Section 2 - Maps
@@ -87,7 +87,9 @@
     * No cap limit
     * User scripts disabled
     * Respawn warnings disabled
-2. The server will be set to Dallas, TX
+2. The server will default to Dallas, TX, except if the following is true:
+    * Captains may declare their team to be an "Eastern team" before Week 1 games are played. This declaration cannot be reversed.
+    * If two "Eastern teams" play against each other during the regular season, the match will default to an ABBA server split on each team's declared home server.
 
 ## Article III - Rosters
 
@@ -108,7 +110,7 @@
 2. Captains and Preliminary Picks cannot be traded.
 3. The trade deadline will be end of the FA period after Week 5.
 
-### Section 4 - Free Agency
+### Section 4 - Free Agency (Excluding Majors Drops to Minors)
 1. Teams will use free agency to add a free agent to their roster.
     * A free agent is defined as any player who is eligible as a substitute or was dropped since the last free agency period.
 2. Roster Transactions (not including loans) will be processed during FA periods. 
@@ -120,12 +122,21 @@
 6. Teams will use the free agency form to submit bids with their remaining tagcoins on any available free agents they wish to draft.
 7. In the case of tied bids the winner will be the team lower in standings or randomly chosen in the case of equal placement in the standings.
 
+### Section 5 - Free Agency (Majors Drops to Minors)
+1. Players who are dropped from a majors roster after the minors draft has concluded will only be eligible for minors under the following circumstances:
+   * The player in question was dropped from a majors roster prior to the conclusion of the week 3 FA period.
+   * The player in question is not on a majors roster after the week 3 FA period has concluded.
+2. Prior to Week 4 minors matches (10/4), one free agency period will be conducted for all eligible players:
+   * Minors teams will have a chance to add a player through a waiver system.
+   * Priority in the waiver system will be determined by the inverse ranking of the minors standings prior to Week 4 matches.
+   * Waiver priority cannot be traded.
+3. Players who are dropped from a majors roster but who do not meet the conditions outlined in (1) will be declared ineligible for minors. These players will still be eligible for majors in accordance with Section 4.
 
-### Section 5 - Dual-Eligible Players
+### Section 6 - Dual-Eligible Players
 
 1. Definitions
    * Each MLTP team will select two players to act as Dual-Eligible Players (DEPs). 
-   * Eligible players are all those eligible for the Majors Auction and available on Sundays.
+   * Eligible players are all those eligible for the MLTP draft and available for the default game day of the respective tier. (Sunday for majors, Monday for minors)
    * The team that owns the rights to the player will be called the Owning Team. 
    The team that does not own the rights to the player will be called the Non-Owning Team. 
    * The right of first refusal is the right to enter into a transaction for a player before another team can. If the team with this right declines to enter into a transaction, other teams are allowed to complete that transaction. 
@@ -154,7 +165,7 @@
    * MLTP teams can add and drop rights at any time. They will be processed on a first-come-first-serve basis. 
 Eligible rights for players are any players on a mLTP or NLTP roster. 
 
-### Section 6 - Loans
+### Section 7 - Loans
 1. Any player in non-DEP mLTP or NLTP player is eligible to be a substitute for MLTP as a loan. A DEP mLTP player is subject to the rules in Section 5.
 2. Any player in NLTP is eligible to be a subsitute for mLTP as a loan.
 3. Players may be loaned up to 80 minutes per team.
@@ -163,15 +174,15 @@ Eligible rights for players are any players on a mLTP or NLTP roster.
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is December 22nd at 11:59pm ET.
+1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is one week before the day of the MLTP draft.
     * MLTP experienced players includes any player who has 100 or more minutes of MLTP experience.
-2. All other players have a deadline of January 4th at 11:59pm ET.
+2. All other players have a deadline of three days before the MLTP draft..
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, April 12th.
+1. The Majors Auction Draft will take place on Sunday, August 30.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
 2. At the conclusion of the Majors Auction Draft, teams will snake draft to select their DEPs. 
-3. The Minors Auction Draft will take place on Monday, January 13th.
+3. The Minors Auction Draft will take place on Thursday, September 3.
     * The Minors Auction Draft will continue until every roster has a total of 4 players.
 4. Prior to both auction drafts, captains will be alloted tagcoins by the CRC to be spent in the draft.
     * The amount of tagcoins allotted may vary depending on the relative skill of any preliminary players.
@@ -182,17 +193,21 @@ Eligible rights for players are any players on a mLTP or NLTP roster.
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
-2. For each game teams will play on the Dallas server. 
-2. In the event of a tie after two halves, an overtime period will be played.
+2. For each game teams will default to Dallas, TX with the exception of two "Eastern Teams" as defined in Article II, Section III (3). 
+3. In the event of a tie after two halves, an overtime period will be played.
     * The default overtime format will be a 10 minute period, split into 5 minute halves. These periods will be played until a winner is found. 
     * Captains may mutually agree to use a "Golden Cap" format. These agreements can happen before any 10 minute overtime period starts.
         * Golden Cap is defined as a 20 minute period with a one cap limit. The first team to cap wins.
         * Golden Cap periods will be played until a team wins.
         * Once Golden Cap is decided on, teams may not go back to 10 minute periods if that game is still tied.
-3. Regulation wins are worth 3 points, overtime wins 2 points, overtime losses 1 point, and regulation losses 0 points.
-4. Teams may not start a match unless they can field 4 players.
-5. Teams unable to field four players during an ongoing match should finish the match and report the situation to the CRC for further review.
-6. Teams are required to use abbreviations to identify their team in the group page. 
+4. Regulation wins are worth 3 points, overtime wins 2 points, overtime losses 1 point, and regulation losses 0 points.
+5. Teams may not start a match unless they can field 4 players.
+6. Teams unable to field four players during an ongoing match should finish the match and report the situation to the CRC for further review.
+7. Teams are required to use abbreviations to identify their team in the group page.
+8. Teams are required to use the TagPro VCR script to record their game:
+   * Each team is expected to have at least one spectator available to record each half.
+   * If a game is missing more than ten minutes total, the CRC may force a replay of the game in question.
+   * Exceptions to this rule may be made in situations where the spectator has substituted into a match and cannot record the remainder of the half in question.
 
 ### Section 2 - Substitutions
 1. Teams are allowed to substitute players mid-match for any rostered or loaned player.
@@ -205,7 +220,7 @@ Eligible rights for players are any players on a mLTP or NLTP roster.
 
 ### Section 4 - Scheduling
 1. Matches are scheduled for Sunday by default for majors and Monday by default for minors
-2. CRC approval is required before rescheduling 5+ days from Sunday.
+2. Games may not be rescheduled more than two days past the default gametime.
 3. Default times for matches will be based on an average of captains' desired start times as listed at the beginning of the season.
 4. The default time must be used if an alternative cannot be agreed upon.
 5. Changes from the default game time must be explicitly agreed upon in writing by the captain of each team. Once done, this becomes the new default day/time for that match.
@@ -285,12 +300,13 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
 ## Article VIII - Playoffs
 
 ### Section 1 - Playoff Rounds
-1. The top 8 teams from majors and minors will make playoffs
-2. There will be 3 rounds for playoffs
+1. The top 6 teams from majors and the top 8 teams from minors will make playoffs.
+2. There will be 3 rounds for playoffs:
     * Quarterfinals (Equidistant Eight)
-        * The top 4 seeded teams will choose their opponents in order from any of the remaining lower 4 seeded teams.
+        * In majors, the top two teams will have a bye. The third seeded team will choose their opponent from either the fifth or sixth seeded team, with the fourth seeded team playing the last remaining team not chosen.
+        * In minors, the top four seeded teams will choose their opponents in order from any of the remaining lower four seeded teams.
     * Semifinals (Foci Four)
-        * The top 2 seeded teams will choose their opponents in order from any of the remaining lower 2 seeded teams.
+        * The top two seeded teams will choose their opponents in order from any of the remaining lower two seeded teams.
     * Finals (Superball)
         * The two remaining teams will play for the championship.
 
