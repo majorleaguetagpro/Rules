@@ -1,6 +1,6 @@
 # Major League TagPro Rules
 
-## Season 22
+## Season 23
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
@@ -17,42 +17,37 @@
 1. Duties of the CRC:
     * Creating the schedule for the season
     * Defining the league structure
-    * Selecting captains for the season and approving team names
+    * Selecting GMs for the season and approving team names
     * Creating and managing the rules for the league
     * Administering votes and vetoes
     * Determining player eligibility
-    * Determining whether to allow captains agreements
+    * Determining whether to allow GMs agreements
     * Determining disciplinary action for rule violations
     * Presiding over any appeals for CRC decisions
     * Administering the CRC election for the next season
-2. The CRC will consist of 3 members.
+2. The CRC will consist of 5 members.
 3. CRC decisions will be passed with a simple majority vote.
 4. Elections will be run at the end of every season to select a new CRC for the next season.
     * Applications will be posted on [/r/MLTP](https://www.reddit.com/r/MLTP/) and open to everyone at the end of every season.
-    * CRC positions will be filled using a vote by the current season’s captains after discussion of the candidates.
+    * CRC positions will be filled using a vote by the current season’s GMs after discussion of the candidates.
     * The current CRC will continue to have authority over MLTP until the next CRC is elected.
 
-### Section 3 - Captains
-1. Each team shall have a single captain.
-2. Duties of the Captains:
+### Section 3 - General Managers
+1. Each franchise shall have a General Manager (GM).
+2. Duties of the General Manager:
     * Choosing a team name
-    * Using the captains veto to adjust rules when necessary
+    * Using the GM veto to adjust rules when necessary
     * Participating in votes and/or discussions when requested by the CRC
     * Creating a team via draft
     * Managing their team roster
     * Deciding team lineups
     * Voting on the next CRC members at the end of this season.
-3. Captains are selected by the CRC to fulfill one of the following roles:
-    * Any captain playing in majors (MLTP) will be a **majors playing captain**.
-     * Any captain playing in minors (mLTP) will be a **minors playing captain**.
-    * Any captain not playing in MLTP or mLTP will be a **non-playing captain (NPC)**.
-4. Prior to being selected as captain, NPCs will find a player who agrees to join their team as a **preliminary pick**. 
-5. Each team will have a vice-captain who will fill the role of captain in the event the captain is not available.
-    * Vice-Captains by default are the preliminary pick, or if unavailable the highest TC costing majors player, but can be changed by the captain at any time.
-6. Captains Veto:
-    * Any rule can be created or changed by a 2/3 majority of all the captains.
-    * Any captain may request a veto vote directly to the CRC. 
-7. Captains may change any rules for a match between their teams as long as they are in agreement and have CRC approval for the change.
+3. All GMs will be nonplaying participants in MLTP to avoid a conflict of interest. They are eligible to participate in NLTP if desired.
+4. Each GM can elect an Assistant GM who will fill the role of GM in the event the GM is not available.
+5. GM's Veto:
+    * Any rule can be created or changed by a 2/3 majority of all the GMs.
+    * Any GM may request a veto vote directly to the CRC. 
+6. GMs may change any rules for a match between their teams as long as they are in agreement and have CRC approval for the change.
 
 ### Section 4 - Registration
 1. A player registers for MLTP by [joining the the Competitive TagPro discord](https://discord.gg/JCyQaZH), typing **!naltp**, and completing the bot questionnaire
@@ -62,6 +57,7 @@
     * Are unavailable for over half of the regular season.
     * Are banned from TagPro for over half of the regular season.
     * Are unavailable for playoffs
+    * Have an active ban from MLTP
 3. Restrictions from majors and minors will be made for players that list that they are unavailable to play on the default game day (Sunday and Monday respectively).
 4. Position restrictions will be made for players that list that they will play only one position ("Offense only" or "Defense only").
 5. Player comments about availability may be used to restrict a player's total allowed minutes for a season.
@@ -70,11 +66,11 @@
 ## Article II - League Structure
 
 ### Section 1 - Teams
-1. There will be 8 MLTP teams and 12 mLTP teams
-2. MLTP and mLTP teams will be unaffiliated
+1. There will be 8 MLTP franchises.
+2. Each franchise will consistent of a Majors and Minors roster of four (4) players each, for a total of eight (8) players per franchise.
 
 ### Section 2 - Maps
-1. The CRC will run a vote for the captains to select the maps.
+1. The CRC will run a vote for the GMs to select the maps.
 2. The number of maps played will be equal to the number of weeks in the regular season.
 3. Each map in the MLTP rotation will be played for two games.
 4. Two maps will be played per week.
@@ -88,112 +84,73 @@
     * User scripts disabled
     * Respawn warnings disabled
 2. The server will default to Dallas, TX, except if the following is true:
-    * Captains may declare their team to be an "Eastern team" before Week 1 games are played. This declaration cannot be reversed.
+    * GMs may declare their team to be an "Eastern team" before Week 1 games are played. This declaration cannot be reversed.
     * If two "Eastern teams" play against each other during the regular season, the match will default to an ABBA server split on each team's declared home server.
 
 ## Article III - Rosters
 
 ### Section 1 - Rosters
-1. Teams will have a roster of 4 players.
+1. Each franchise will have a roster of 8 players. Four of which will be designated as "Majors" and four for "Minors".
 2. If a player is dropped from a team due to gross inactivity they will be ineligible to join any MLTP team except the one they were dropped from.
     * Gross inactivity includes not showing up to games, practices, as well as not returning messages from team members and commissioners.
+    * Declaring an intention to quit MLTP or TagPro will also allow a GM to designate the drop as Gross Inactivity.
     * Players may their appeal gross inactivity status to the CRC.
-3. Captains can complete roster transactions using the Roster Form.
+3. GMs can complete roster transactions using the Roster Form.
    * The Roster Form is used for call ups, drops, bids, and loans.
    
 ### Section 2 - Eligibility
 1. Any player banned from TagPro is also banned from playing MLTP for the duration of their ban.
-2. If a mLTP player is called up to MLTP, they will be eligible to play in both MLTP and mLTP after their call up.
+2. Majors Eligibility:
+   * Any player on the franchise's roster is eligible to play Majors each week. 
+   * Any player loaned by the franchise is eligible to play Majors that week. A loaned player can only participate in one Majors match per week.
+   * Any player who submitted their signup as unavailable on Sunday is ineligible.
+3. Minors Eligibility:
+   * Any player on the franchise's roster is eligible to play Minors each week EXCEPT for (1) players who played greater than twenty (20) minutes in Majors (does not include overtime) or (2) are in the top four of their franchise for minutes played in Majors after Week 3. In the event that two players have equal numbers of minutes played, the GM must designate one as ineligible for Minors for a total of four ineligible players. 
+   * GMs can ask for a waiver from the CRC in the event that a Majors player in unvailable for a week and require a Minors player to participate in both matches. Additionally, a GM can request a waiver to permanently switch the eligibilities of players before the end of the season however this can not be undone if granted.
+   * Any player loaned by the franchise is eligible to play Minors that week. A loaned player can only participate in one Minors match per week. The twenty minute  rule applies to loaned players as well.
+   * Any player who submitted their signup as unavailable on Monday is ineligible.
 
 ### Section 3 - Trades
-1. Trades will go into effect once approved by the CRC.
-2. Captains and Preliminary Picks cannot be traded.
-3. The trade deadline will be end of the FA period after Week 5.
+1. Trades will go into effect once approved by the CRC. The GM must message the CRC once a trade form has been submitted.
+2. The trade deadline will be 24 hours after the last Week 5 Minors match has concluded.
 
-### Section 4 - Free Agency (Excluding Majors Drops to Minors)
+### Section 4 - Free Agency
 1. Teams will use free agency to add a free agent to their roster.
     * A free agent is defined as any player who is eligible as a substitute or was dropped since the last free agency period.
-2. Roster Transactions (not including loans) will be processed during FA periods. 
-    * The MLTP FA period opens at 12:01 AM on Monday morning and closes at 11:59 PM on Tuesday night. 
-    * The mLTP FA period opens at 12:01 AM on Tuesday morning and closes at 11:59 PM on Wednesday night.    
-3. When a player is dropped from a roster all captains in the level will have until 11:59 PM the following night to submit a bid otherwise that player will enter the FA period for the lower tier.
-4. Teams will be given 5 tagcoins in a free-agent acquisition budget after the draft.
-5. TagCoins will be awarded according to standing order. The 1st place team will receive 1 tagcoins, the 10th place team will receive 10 tagcoins. This will begin after the third week of the season. For the first two weeks each team will receive 5 tagcoins.
-6. Teams will use the free agency form to submit bids with their remaining tagcoins on any available free agents they wish to draft.
-7. In the case of tied bids the winner will be the team lower in standings or randomly chosen in the case of equal placement in the standings.
+2. Roster Transactions will be processed on a rolling basis.   
+3. When a player is dropped from a roster all GMs will have until 11:59 PM the following night to submit a request for that player otherwise the player will be marked for addition to a NLTP roster.
+4. There will be no TagCoin budget for free agency. Additions will be processed using the reverse order of the current combined franchise standings. Each week the franchise with the lowest combined points will have first preference to add to their roster. If a franchise is the lowest in back-to-back weeks, if they utilized their position to make a roster move in the previous week they will be moved to last position in the order. 
+5. NLTP players can be added at any point in time and will be processed on a first-come-first-serve basis. 
+6. Adding both a dropped player and a NLTP player to a roster will result in the franchise moving to last position in the waiver order.
 
-### Section 5 - Free Agency (Majors Drops to Minors)
-1. Players who are dropped from a majors roster after the minors draft has concluded will only be eligible for minors under the following circumstances:
-   * The player in question was dropped from a majors roster prior to the conclusion of the week 3 FA period.
-   * The player in question is not on a majors roster after the week 3 FA period has concluded.
-2. Prior to Week 4 minors matches (10/4), one free agency period will be conducted for all eligible players:
-   * Minors teams will have a chance to add a player through a waiver system.
-   * Priority in the waiver system will be determined by the inverse ranking of the minors standings prior to Week 4 matches.
-   * Waiver priority cannot be traded.
-3. Players who are dropped from a majors roster but who do not meet the conditions outlined in (1) will be declared ineligible for minors. These players will still be eligible for majors in accordance with Section 4.
-
-### Section 6 - Dual-Eligible Players
-
-1. Definitions
-   * Each MLTP team will select two players to act as Dual-Eligible Players (DEPs). 
-   * Eligible players are all those eligible for the MLTP draft and available for the default game day of the respective tier. (Sunday for majors, Monday for minors)
-   * The team that owns the rights to the player will be called the Owning Team. 
-   The team that does not own the rights to the player will be called the Non-Owning Team. 
-   * The right of first refusal is the right to enter into a transaction for a player before another team can. If the team with this right declines to enter into a transaction, other teams are allowed to complete that transaction. 
-2. Scope of Rights
-   * Owning the DEP rights to a player allows the team to: 
-   * Have the right of first refusal to loan that player.
-   * Have the right of first refusal to call up that player.
-3. Loans
-   * A DEP can be loaned at any point during the regular season and playoffs.
-   * If the Owning Team would like to loan a player, they should submit the roster transaction form to the CRC to formalize the loan. 
-   * If a Non-Owning Team would like to loan a player they should submit the roster transaction form to the CRC to request the loan. The CRC will contact the Owning Team to inform them of the intended loan. 
-4. Call Ups
-   * A DEP can be called up at any point during the regular season. 
-   * If the Owning Team would like to call up a player, they should submit the roster transaction form to the CRC to formalize the call up. 
-   * If a Non-Owning Team wishes to call up a player, they should submit the roster transaction form to request the call up. At this point, the CRC will inform the Owning Team of the intended call up. 
-   * The Owning Team will have the right of first refusal. Therefore, the owning team can choose to drop a player to call up the player in question. 
-   * Teams can execute a trade before forfeiting their rights to the player.
-   * If the Owning Team does not add the player within the FA period (Tuesday at Midnight ET), then the player will be added to the Non-Owning Team’s roster. 
-   * A player can decline to be called up. At this point any DEP rights are forfeited and the team can claim rights to any unclaimed player. The declining player is also barred from being called up for the remainder of the season.
-5. Handling of Dropped Players
-   * In the instance that an Owning Team forgoes the right of first refusal, they will have the first choice in picking up the player that is dropped for the DEP. Otherwise the player will continue into MLTP FA. 
-   * If the player is not picked up in MLTP FA, then the team whose DEP was claimed  receives the rights of the dropped player as a DEP. 
-   * Dropped players will not be eligible to be added to a mLTP roster until the conclusion of Week 4. Between being dropped and this period, the dropped player can be loaned or called up by any MLTP teams.
-   * EXCEPTION: If the called up player no longer wishes to play mLTP, then the dropped player will be added to the mLTP roster losing their player. This player then becomes dual-eligible for MLTP and mLTP. 
-6. Add/Drop of Rights
-   * MLTP teams can add and drop rights at any time. They will be processed on a first-come-first-serve basis. 
-Eligible rights for players are any players on a mLTP or NLTP roster. 
-
-### Section 7 - Loans
-1. Any player in non-DEP mLTP or NLTP player is eligible to be a substitute for MLTP as a loan. A DEP mLTP player is subject to the rules in Section 5.
-2. Any player in NLTP is eligible to be a subsitute for mLTP as a loan.
-3. Players may be loaned up to 80 minutes per team.
-4. A loaned player can only play in one MLTP match and one mLTP match per week.
+### Section 5 - Loans
+1. Any current NLTP player eligible to be a substitute for Majors or Minors as a loan. 
+2. Players may be loaned up to 80 minutes per franchise.
+3. A loaned player can only play in one MLTP match and one mLTP match per week.
+4. If a player plays greater than 20 minutes in Majors (not including overtime), they are ineligible to be loaned in Minors.
 
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline for MLTP experienced players from Season 20 to be eligible for the draft is one week before the day of the MLTP draft.
+1. The deadline for MLTP experienced players from Season 22 to be eligible for the draft is one week the scheduled start of the Majors Draft.
     * MLTP experienced players includes any player who has 100 or more minutes of MLTP experience.
-2. All other players have a deadline of three days before the MLTP draft..
+2. All other players have a deadline of 24 hours before the scheduled start of the Majors Draft.
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, August 30.
+1. The Majors Auction Draft will take place on Sunday, January 3rd at 8pm EST.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
-2. At the conclusion of the Majors Auction Draft, teams will snake draft to select their DEPs. 
-3. The Minors Auction Draft will take place on Thursday, September 3.
-    * The Minors Auction Draft will continue until every roster has a total of 4 players.
-4. Prior to both auction drafts, captains will be alloted tagcoins by the CRC to be spent in the draft.
-    * The amount of tagcoins allotted may vary depending on the relative skill of any preliminary players.
-5. The nomination order will be based on tagcoin allotments, with the captain with the most TC going first.
-6. There is no maximum bid.
+2. The Minors Auction Draft will take place on Monday, January 4th at 8pm EST.
+    * The Minors Auction Draft will continue until every franchise has a total of 8 players.
+3. For both Auction Drafts each franchise will be allocated 200 TagCoins (TC) to bid on players with. These TC will not carryover between drafts or into the season.
+4. If a player is nominated, the nominating captain is not required to bid on that player.
+5. The nomination order will be randomized prior to the start of the draft.
+6. There is no maximum bid. The minimum bid is 0. 
 
 ## Article V - Matches
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
-2. For each game teams will default to Dallas, TX with the exception of two "Eastern Teams" as defined in Article II, Section III (3). 
+2. For each game teams will default to Dallas, TX with the exception of two "Eastern Teams" as defined in Article II. 
 3. In the event of a tie after two halves, an overtime period will be played.
     * The default overtime format will be a 10 minute period, split into 5 minute halves. These periods will be played until a winner is found. 
     * Captains may mutually agree to use a "Golden Cap" format. These agreements can happen before any 10 minute overtime period starts.
@@ -300,11 +257,10 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
 ## Article VIII - Playoffs
 
 ### Section 1 - Playoff Rounds
-1. The top 6 teams from majors and the top 8 teams from minors will make playoffs.
+1. The top 6 teams from majors and minors will make playoffs.
 2. There will be 3 rounds for playoffs:
     * Quarterfinals (Equidistant Eight)
-        * In majors, the top two teams will have a bye. The third seeded team will choose their opponent from either the fifth or sixth seeded team, with the fourth seeded team playing the last remaining team not chosen.
-        * In minors, the top four seeded teams will choose their opponents in order from any of the remaining lower four seeded teams.
+        * The top two teams will have a bye. The third seeded team will choose their opponent from either the fifth or sixth seeded team, with the fourth seeded team playing the last remaining team not chosen.
     * Semifinals (Foci Four)
         * The top two seeded teams will choose their opponents in order from any of the remaining lower two seeded teams.
     * Finals (Superball)
