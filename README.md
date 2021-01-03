@@ -45,7 +45,7 @@
 3. All GMs will be nonplaying participants in MLTP to avoid a conflict of interest. They are eligible to participate in NLTP if desired.
 4. Each GM can elect an Assistant GM who will fill the role of GM in the event the GM is not available.
 5. GM's Veto:
-    * Any rule can be created or changed by a 2/3 majority of all the GMs.
+    * Any rule can be created or changed by a 2/3 majority of all the GMs. If a franchise has more than one GM, only one vote will be counted per franchise.
     * Any GM may request a veto vote directly to the CRC. 
 6. GMs may change any rules for a match between their teams as long as they are in agreement and have CRC approval for the change.
 
@@ -86,6 +86,7 @@
 2. The server will default to Dallas, TX, except if the following is true:
     * GMs may declare their team to be an "Eastern team" before Week 1 games are played. This declaration cannot be reversed.
     * If two "Eastern teams" play against each other during the regular season, the match will default to an ABBA server split on each team's declared home server.
+    * Dallas-2 should only be used in the event that the primary Dallas server is unavailable or experiencing significant connectivity issues. 
 
 ## Article III - Rosters
 
@@ -143,7 +144,7 @@
     * The Minors Auction Draft will continue until every franchise has a total of 8 players.
 3. For both Auction Drafts each franchise will be allocated 200 TagCoins (TC) to bid on players with. These TC will not carryover between drafts or into the season.
 4. If a player is nominated, the nominating captain is not required to bid on that player.
-5. The nomination order will be randomized prior to the start of the draft.
+5. The nomination order will be randomized prior to the start of the draft. The nomination order will snake, going from 1-8, 8-1, 1-8, and finally 8-1 for the final round of nominations. If a team has already reached its maximum roster limit, then their nomination will be skipped.
 6. There is no maximum bid. The minimum bid is 0. 
 
 ## Article V - Matches
