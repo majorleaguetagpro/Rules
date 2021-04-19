@@ -138,7 +138,7 @@
 4. Priority for additions will be given in reverse order of the standings at the time of drop. If a mLTP team elects to add a player in the post Week 3 transaction period then they will not be eligible to add another MLTP drop in the Week 4 transaction period unless all other teams opt to not add the dropped player.
 5. Dropped players can opt to not be eligible for addition to a mLTP roster. They are automatically ineligible if they signed up as unavailable on Mondays.
 
-### Section 6 - Loans
+### Section 7 - Loans
 1. Any current mLTP or NLTP player is eligible to be loaned by a MLTP team.
    * If a MLTP team does not own the rights to a player, then they must indicate that on the roster transactions form. 
    * A player who passed through the MLTP draft with Sunday availability is also eligible to be loaned even if they are not currently on a mLTP or NLTP roster.
