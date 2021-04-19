@@ -147,7 +147,8 @@
    * If a mLTP team does not own the rights to a player, then they must indicate that on the roster transactions form. 
    * A player who passed through the mLTP draft with Monday availability is also eligible to be loaned even if they are not currently on a NLTP roster.
 3. Players may be loaned up to one week per franchise.
-4. If a team exercises their DEP ownership of a player to block a loan, they must loan that player themselves and play them for a minimum of 20 minutes.
+   * The exception to this rule is that DEPs can be loaned an unlimited number of times by their owning franchise. 
+5. If a team exercises their DEP ownership of a player to block a loan, they must loan that player themselves and play them for a minimum of 20 minutes.
 6. A loaned player can only play in one MLTP match and one mLTP match per week.
 7. If a player plays greater than 20 minutes in Majors (not including overtime), they are ineligible to be loaned in Minors.
 8. Players cannot be loaned after the roster transaction deadline unless the team has received permission from the CRC.
