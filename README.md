@@ -184,7 +184,7 @@
 4. Regulation wins are worth 3 points, overtime wins 2 points, overtime losses 1 point, and regulation losses 0 points.
 5. Teams may not start a match unless they can field 4 players.
 6. Teams unable to field four players during an ongoing match should finish the match and report the situation to the CRC for further review.
-7. Teams are required to use abbreviations to identify their team in the group page.
+7. Teams are required to use their assigned abbreviations to identify their team in the group page.
 8. Teams are required to use the TagPro VCR script to record their game:
    * Each team is expected to have at least one spectator available to record each half.
    * If a game is missing more than ten minutes total, the CRC may force a replay of the game in question.
