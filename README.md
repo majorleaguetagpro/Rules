@@ -122,7 +122,7 @@
 
 ### Section 5 -  Add/Drop Transactions
 1. Teams can add or drop players without limitation up to 24 hours before the the first MLTP match is played.
-2. After the first week, M/mLTP teams will be limited to adding one player per team for the remainder of the season.
+2. After the first week, M/mLTP teams will be limited to adding one player per team for the remainder of the season. This does not include the addition of Majors drops in week 3 and week 4.
    * Teams can appeal to the CRC on a case-by-case basis in the event they believe they need to add another player.
 3. MLTP teams can add players from mLTP, NLTP, players dropped by other MLTP teams, or the pool of players with Sunday availability who were not drafted to Majors and are not playing in another league.
    * DEP Rights give a team the right of first refusal for adds and loans. If Team A would like to loan Player X but Team B owns Player X's rights, then Team B will have the option to add or loan Player X themselves instead. If they do not wish to add or loan that player at that time, they forego their rights to that player.
