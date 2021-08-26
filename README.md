@@ -1,6 +1,6 @@
 # Major League TagPro Rules
 
-## Season 24
+## Season 25
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
@@ -16,11 +16,11 @@
 ### Section 2 - Commissioners and League Manager (CRC)
 1. Duties of the Commissioners:
     * Defining the league structure
-    * Selecting GMs and Captains for the season and approving team names
+    * Selecting GMs for the season and approving team names
     * Creating and managing the rules for the league
     * Administering votes and vetoes
     * Determining player eligibility
-    * Determining whether to allow GM or Captain agreements
+    * Determining whether to allow GM agreements
     * Determining disciplinary action for rule violations
     * Presiding over any appeals for CRC decisions
     * Administering the CRC election for the next season
@@ -36,28 +36,27 @@
     * Creating the materials and running the draft
 
 ### Section 3 - General Managers and Captains
-1. Each MLTP franchise shall have a General Manager (GM). Each mLTP franchise will have a Captain.
+1. Each MLTP and mLTP franchise shall have a General Manager (GM).
 2. Duties of the General Manager and Captains:
     * Choosing a team name
     * Ratifying the rules
-    * Using the GM / Captain veto to adjust rules when necessary
+    * Using the GM veto to adjust rules when necessary
     * Participating in votes and/or discussions when requested by the CRC
     * Creating a team via draft
     * Managing their team roster
     * Deciding team lineups
     * Voting on the next commissioners at the end of this season.
-3. All GMs will be nonplaying participants in MLTP to avoid a conflict of interest. They are eligible to participate in NLTP or mLTP if desired.
-4. Captains in mLTP can be Playing or Non-Playing. For Non-Playing Captains, they will select a preliminary pick before the draft.
-5. Each GM can elect an Assistant GM who will fill the role of GM in the event the GM is not available.
-6. Captain / GM's Veto:
-    * Any rule can be created or changed by a 2/3 majority of all the Captains and/or GMs (depending on the scope of the veto). If a franchise has more than one GM, only one vote will be counted per franchise.
-    * Any Captain or GM may request a veto vote directly to the CRC. They must include the alternative rule in the request.
-7. Captains and GMs may change any rules for a match between their teams as long as they are in agreement and have commissioner approval for the change.
+3. All GMs will be nonplaying participants in their respective league to avoid a conflict of interest. They are eligible to participate in leagues above or below if desired.
+4. Each GM can elect an Assistant GM who will fill the role of GM in the event the GM is not available.
+5. GM's Veto:
+    * Any rule can be created or changed by a 2/3 majority of all the GMs. If a franchise has more than one GM, only one vote will be counted per franchise.
+    * Any GM may request a veto vote directly to the CRC. They must include the alternative rule in the request.
+6. GMs may change any rules for a match between their teams as long as they are in agreement and have commissioner approval for the change. (A GM Agreement)
 
 ### Section 4 - Registration
 1. A player registers for MLTP by [joining the the Competitive TagPro discord](https://discord.gg/JCyQaZH), typing **!naltp**, and completing the bot questionnaire
     * Players may unregister by messaging any CRC member asking to be removed or by using **!naltp**.
-    * Players who wish to edit their signup may do so by typing **!naltp** again. Edits made after a signup deadline must be approved by the CRC to be valid.
+    * Players who wish to edit their signup may do so by typing **!naltp** again. Edits made after the signup deadline must be approved by the CRC to be valid.
 2. Players are ineligible for the draft if they
     * Are unavailable for over half of the regular season.
     * Are banned from TagPro for over half of the regular season.
