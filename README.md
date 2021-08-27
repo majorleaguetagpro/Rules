@@ -154,34 +154,31 @@
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline to add or remove a signup for Season 24 of MLTP is April 8th, 2021.
+1. The deadline to add or remove a signup for Season 25 of MLTP is August 27th, 2021 at 11:59pm ET.
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, April 11th at 8:30pm EST.
+1. The Majors Auction Draft will take place on Sunday, August 29th, time TBA.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
-2. The Minors Auction Draft will take place on Monday, April 12th at 8:30pm EST.
+2. The Minors Auction Draft will take place on Monday, August 30th, time TBA.
     * The Minors Auction Draft will continue until every roster has a total of 4 players.
 3. For the MLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
-4. For the mLTP Auction Draft each franchise will be allocated a varying amount of TC to bid on players with. This amount should be roughly equal to 200 TC less their perceived value. As a result if every team uses all of their TC, each team should have a value of roughly 200 TC. 
+4. For the mLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
 5. If a player is nominated, the nominating captain is not required to bid on that player.
 6. The nomination order will be randomized prior to the start of the draft. If a team has already reached its maximum roster limit, then their nomination will be skipped.
 7. There is no maximum bid. The minimum bid is 0. 
-8. At the conclusion of the Auction Draft there will be a snake draft to select DEP rights. The team with the most leftover TC will have first pick and the team with the least will pick last. Ties will be broken randomly (via wheel). 
+8. Max bid ties will be resolved by spinning the wheel.
 
 ## Article V - Matches
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
 2. For each game teams will default to Dallas, TX. 
-3. In the event of a tie after two halves, an overtime period will be played.
-    * The default overtime format will be a 10 minute period, split into 5 minute halves. These periods will be played until a winner is found. 
-    * Captains may mutually agree to use a "Golden Cap" format. These agreements can happen before any 10 minute overtime period starts.
-        * Golden Cap is defined as a 20 minute period with a one cap limit. The first team to cap wins.
-        * Golden Cap periods will be played until a team wins.
-        * Once Golden Cap is decided on, teams may not go back to 10 minute periods if that game is still tied.
+3. In the event of a tie after two halves, games will transition immediately into a golden cap overtime as a continuation of the second half unless previously agreed upon by GMs to settle the overtime in a different manner.
+    * Captains may mutually agree to use a 5 minute overtime half format. These agreements can happen before any second half starts.
+        * Once 5 minute halves are decided on, teams may not go back to golden cap until the conclusion of an overtime period where the teams are still tied.
 4. Regulation wins are worth 3 points, overtime wins 2 points, overtime losses 1 point, and regulation losses 0 points.
 5. Teams may not start a match unless they can field 4 players.
-6. Teams unable to field four players during an ongoing match should finish the match and report the situation to the CRC for further review.
+6. Teams unable to field 4 players during an ongoing match should finish the match and report the situation to the CRC for further review.
 7. Teams are required to use their assigned abbreviations to identify their team in the group page.
 8. Teams are required to use the TagPro VCR script to record their game:
    * Each team is expected to have at least one spectator available to record each half.
@@ -198,7 +195,7 @@
 3. Timeouts cannot be called. Teams are recommended to maintain a substitute should lag be an issue. 
 
 ### Section 4 - Scheduling
-1. Matches are scheduled for Sunday by default for majors and Monday by default for minors
+1. Matches are scheduled for Sunday by default for Majors and Monday by default for Minors.
 2. Games may not be rescheduled more than two days past the default gametime.
 3. Default times for matches will be based on an average of captains' desired start times as listed at the beginning of the season.
 4. The default time must be used if an alternative cannot be agreed upon.
@@ -230,7 +227,7 @@
     * Giving information to some captains and not others as to your availability or enthusiasm to play
     * Publicly stating that you are averse to playing on a server that you have acceptable ping to (Acceptable Ping is defined as <60ms)
     * Publicly stating you are averse to playing with a specific player for any reason
-    * Signing up for a position that you do not have an intention to play.
+    * Signing up for a position that you do not have an intention to play
 4. If a player begins a match on the wrong team, the other team will have the option of restarting the match or playing on. To initiate this, the team must make a comment in chat about restarting within 10 seconds of the start of the match.
 5. Instances of cheating will be dealt with on a case-by-case basis as determined by the commissioners.
 
@@ -281,15 +278,16 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
 ### Section 1 - Playoff Rounds
 1. The top 6 teams from majors and minors will make playoffs.
 2. There will be 3 rounds for playoffs:
-    * Quarterfinals (Equidistant Eight)
+    * Quarterfinals (Secant Six)
         * The top two teams will have a bye. The third seeded team will choose their opponent from either the fifth or sixth seeded team, with the fourth seeded team playing the last remaining team not chosen.
     * Semifinals (Foci Four)
         * The top two seeded teams will choose their opponents in order from any of the remaining lower two seeded teams.
-    * Finals (Superball)
+    * Finals (Superball/Muperball)
         * The two remaining teams will play for the championship.
 
 ### Section 2 - Tiebreakers
-1. Tiebreakers will be determined in the following order:
+1. Tiebreakers for playoff eligibility will be settled in a play-in round following typical playoff rules described insections 3 and 4 to determine playoff eligibility. Tiebreakers consisting of more than one team for eligibility will be settled on a case-by-case basis as needed.
+2. Tiebreakers for seeding will be determined in the following order:
     1. Head-to-head results between the teams involved
     2. Cap difference
     3. Head-to-head cap difference
@@ -304,7 +302,7 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
     4. Team "A" will pick one of the 5 remaining maps. This will be "Game one".
     5. Team "B" will pick one of the 4 remaining maps. This will be "Game two".
     6. Team "A" will ban one of the 3 remaining maps.
-    7. Team “B” will pick one of the 2 remaining maps. This will be "Overtime".
+    7. Team “B” will pick one of the 2 remaining maps. This will be "Game three" if needed.
 2. Teams will meet 5 minutes before the match for the pick/ban process.
 3. No scrims may be played between when maps are picked and the match.
 
