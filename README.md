@@ -72,14 +72,14 @@
 ### Section 1 - Teams
 1. There will be 8 MLTP franchises and 8 mLTP franchises.
 2. Each franchise will consistent of four (4) players each. 
-3. MLTP and mLTP franchises will hold the rights to two DEP players each.
-4. MLTP and mLTP franchises will not be affiliated.
+3. MLTP and mLTP franchises will not be affiliated.
 
 ### Section 2 - Maps
-1. The CRC will run a vote for the Captains and GMs to select the maps.
-2. The number of maps played will be equal to the number of weeks in the regular season.
-3. Each map in the MLTP rotation will be played for two games.
-4. Two maps will be played per week.
+1. The CRC will run a vote for the GMs to select the maps.
+    * Of the Seven maps played, at least one must be of the "tweaked" variety (small change from previous base map) and at least one must be a TPM map
+3. The number of maps played will be equal to the number of weeks in the regular season.
+4. Each map in the MLTP rotation will be played for two games.
+5. Two maps will be played per week.
     * The first map of a week will be the second map from the previous week.
     * The first map of the season will also be the last.
 
@@ -99,58 +99,57 @@
 2. If a player is dropped from a team due to gross inactivity they will be ineligible to join any M/mLTP team except the one they were dropped from.
     * Gross inactivity includes not showing up to games, practices, as well as not returning messages from team members and commissioners.
     * Declaring an intention to quit MLTP or TagPro will also allow a GM to designate the drop as Gross Inactivity.
-    * Players may their appeal gross inactivity status to the CRC.
+    * Players may appeal their gross inactivity status to the CRC.
 3. Captains and GMs can complete roster transactions using the Roster Form.
    * The Roster Form is used for adds, drops, DEP changes, and loans.
 
 ### Section 2 - Eligibility
 1. Any player banned from TagPro is also banned from playing MLTP for the duration of their ban.
-2. If a player is added to a MLTP roster from a mLTP roster, they will be eligible to play for both the MLTP and mLTP teams for the remainder of the season.
-3. If a player is dropped from a MLTP roster and added to a mLTP roster, the will be ineligible to play MLTP for the remainder of the season. If they opt not to be added to a mLTP roster then they remain eligible to play until the transaction deadline.
-4. Players are ineligible to play MLTP if their S24 signup indicated that they were unavailable on Sundays. Players are ineligible to play mLTP if their S24 signup indicated they were unavailable on Mondays.
+2. If a player is added to a Majors roster from a Minors roster, they will be eligible to play for both the MLTP and mLTP teams for the remainder of the season.
+3. If a player is dropped from a Majors roster and added to a Minors roster during the transaction deadline, they will be ineligible to play MLTP (apart from loans) for the remainder of the season. If they opt not to be added to a Minors roster then they remain eligible to be called up.
+4. Players are ineligible to play MLTP if their S25 signup indicated that they were unavailable on Sundays. Players are ineligible to play mLTP if their S25 signup indicated they were unavailable on Mondays.
 
 ### Section 3 - Transaction Deadline
 1. The transaction deadline will occur 48 hours after the last Minors match of Week 4, approximately 5/12/2021 at Midnight ET. The exact deadline will be communicated after the conclusion of Week 4 matches.
-2. No roster transactions will be allowed after the deadline. This includes adds, drops, trades, and loans.
-   * In the event that a team is missing a player or has a Gross Inactivity issue, they must contact the commissioner for a waiver to process a loan or add transaction.
+2. No trades and limited roster transactions are allowed after the transaction deadline.
+   * Teams may only add/call up a player after week 4 if the player being dropped consents to their season ending upon being dropped.
+   * In the event that a team is missing a player or has a Gross Inactivity issue after week 4, they must contact a commissioner for a waiver to process a loan or add transaction.
 3. Roster transactions, aside from loans, will be locked at 12PM Eastern each week. Transactions will begin to be processed again at 12PM Eastern on Tuesday.
 
 ### Section 4 - Trades
 1. Trades will go into effect once approved by the commissioners and posted to the #mltp-announcements channel in the Competitive TagPro Discord server. The GM must message the CRC once a trade form has been submitted.
-2. Trades can include DEP rights.
 
 ### Section 5 -  Add/Drop Transactions
-1. Teams can add or drop players without limitation up to 24 hours before the the first MLTP match is played.
-2. After the first week, M/mLTP teams will be limited to adding one player per team for the remainder of the season. This does not include the addition of Majors drops in week 3 and week 4.
+1. After the first week, M/mLTP teams will be limited to adding one player per team until the transaction deadline, and may only add players afterwards if the dropped player consents to their season being over in all leagues. This limit does not include the addition of Majors drops in week 4 for minors teams.
    * Teams can appeal to the CRC on a case-by-case basis in the event they believe they need to add another player.
-3. MLTP teams can add players from mLTP, NLTP, players dropped by other MLTP teams, or the pool of players with Sunday availability who were not drafted to Majors and are not playing in another league.
-   * DEP Rights give a team the right of first refusal for adds and loans. If Team A would like to loan Player X but Team B owns Player X's rights, then Team B will have the option to add or loan Player X themselves instead. If they do not wish to add or loan that player at that time, they forego their rights to that player.
-4. mLTP teams can add players from NLTP, players dropped by other mLTP teams, or the pool of players with Monday availability who were not drafted to Minors and are not playing in another league.
-   * mLTP teams will draft DEP rights to players which function as mentioned above for MLTP teams.
-5. Teams must use the transaction form to complete the transaction. It becomes official when posted to #mltp-announcements.
-6. Players who have been dropped from another team's roster must be dropped 48 hours be roster transactions locks (12PM Eastern on Sunday) to be eligible to be added for the upcoming week's matches.
+2. MLTP teams can add players from mLTP, NLTP, players dropped by other MLTP teams, or the pool of players with Sunday availability who were not drafted to Majors and are not playing in another league.
+3. mLTP teams can add players from NLTP, players dropped by other mLTP teams, or the pool of players with Monday availability who were not drafted to Minors and are not playing in another league.
+4. Teams must use the transaction form to complete their transactions. Transactions become official when posted to #mltp-announcements.
+5. Players who have been dropped from another team's roster must be dropped 48 hours before roster transactions lock (12PM Eastern on Sunday) to be eligible to be added for the upcoming week's matches.
 
 ### Section 6 - MLTP Drops
-1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 3 or Week 4 (before the deadline).
+1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 4 if they are not picked back up by another MLTP team (before the deadline).
 2. They must be dropped 48 hours before roster transactions lock (12PM Eastern on Sundays) to be eligible for the upcoming week's matches.
-3. If a player is added to a mLTP roster after Week 3 they will not be eligible to be added to a MLTP roster for the remainder of the season.
-4. Priority for additions will be given in reverse order of the standings at the time of drop. If a mLTP team elects to add a player in the post Week 3 transaction period then they will not be eligible to add another MLTP drop in the Week 4 transaction period unless all other teams opt to not add the dropped player.
-5. Dropped players can opt to not be eligible for addition to a mLTP roster. They are automatically ineligible if they signed up as unavailable on Mondays.
+3. If a player is added to a Minors roster after Week 4 they will not be eligible to be added to an MLTP roster for the remainder of the season, but will remain eligible to be loaned if availability issues exist.
+4. Priority for additions will be given based on Wavier Points.
+   * Waiver points are earned after Week 4 based on standings. Teams receive (24 - Standings Points) in Waiver points.
+   * Waiver points can be lost by a team using their 1 call-up (4 points) or by adding a previously dropped minors player (2 points).
+   * The more waiver points that a team has at the transaction deadline, the higher their priority is in selecting which MLTP drop they receive, if any.
+5. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
+6. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
 
 ### Section 7 - Loans
 1. Any current mLTP or NLTP player is eligible to be loaned by a MLTP team.
-   * If a MLTP team does not own the rights to a player, then they must indicate that on the roster transactions form. 
    * A player who passed through the MLTP draft with Sunday availability is also eligible to be loaned even if they are not currently on a mLTP or NLTP roster.
-   * A player who was dropped by a MLTP team and not added by another MLTP but is awaiting addition to a mLTP is eligible to be loaned.
-2. Any current NLTP player eligible to be loaned by a mLTP team.
-   * If a mLTP team does not own the rights to a player, then they must indicate that on the roster transactions form. 
+   * A player who was dropped by a MLTP team and not added by another MLTP but is awaiting addition to a mLTP team is eligible to be loaned.
+2. Any current NLTP player is eligible to be loaned by a mLTP team.
    * A player who passed through the mLTP draft with Monday availability is also eligible to be loaned even if they are not currently on a NLTP roster.
 3. Players may be loaned up to one week per franchise.
-   * The exception to this rule is that DEPs can be loaned an unlimited number of times by their owning franchise. 
-5. If a team exercises their DEP ownership of a player to block a loan, they must loan that player themselves and play them for a minimum of 20 minutes.
-6. A loaned player can only play in one MLTP match and one mLTP match per week.
-7. If a player plays greater than 20 minutes in Majors (not including overtime), they are ineligible to be loaned in Minors.
-8. Players cannot be loaned after the roster transaction deadline unless the team has received permission from the CRC.
+4. A loaned player can only play in one MLTP match and one mLTP match per week.
+5. If a player plays greater than 20 minutes in Majors (not including overtime), they are ineligible to be loaned in Minors for that week.
+6. Players can only be loaned after the roster transaction deadline if the loan is being used to cover for another player's availability issues.
+7. A team may not hot-sub a player that they previously loaned.
+   * If a player is hot-subbed in, a decision will be made by the CRC as to whether it counts as the player being loaned. (case-by-case, depending mainly on time played)
 
 ## Article IV - Drafts
 
