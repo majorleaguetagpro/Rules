@@ -184,6 +184,7 @@
    * Each team is expected to have at least one spectator available to record each half.
    * If a game is missing more than ten minutes total, the CRC may force a replay of the game in question.
    * Exceptions to this rule may be made in situations where the spectator has substituted into a match and cannot record the remainder of the half in question.
+9. Because games go to golden cap overtime directly following half 2, teams colors for half 2 must follow what is delegated by the schedule.
 
 ### Section 2 - Substitutions
 1. Teams are allowed to substitute players mid-match for any rostered or loaned player.
