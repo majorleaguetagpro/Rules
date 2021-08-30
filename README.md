@@ -75,8 +75,8 @@
 3. MLTP and mLTP franchises will not be affiliated.
 
 ### Section 2 - Maps
-1. The CRC will run a vote for the GMs to select the maps.
-    * Of the Seven maps played, at least one must be of the "tweaked" variety (small change from previous base map) and at least one must be a TPM map
+1. The CRC will run a vote to select the maps. Each player will vote for seven maps from a pool of maps played in the last 5 seasons and some new maps.
+    * Of the seven maps played, at least one must be of the "tweaked" variety (small change from previous base map) and at least one must be a TPM map
 3. The number of maps played will be equal to the number of weeks in the regular season.
 4. Each map in the MLTP rotation will be played for two games.
 5. Two maps will be played per week.
