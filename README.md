@@ -131,13 +131,12 @@
 ### Section 6 - MLTP Drops
 1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 4 if they are not picked back up by another MLTP team (before the deadline).
 2. They must be dropped 48 hours before roster transactions lock (12PM Eastern on Sundays. Drops must occur by 12PM Eastern on Friday.) to be eligible for the upcoming week's matches.
-3. If a player is added to a Minors roster after Week 4 they will not be eligible to be added to an MLTP roster for the remainder of the season, but will remain eligible to be loaned if availability issues exist.
-4. Priority for additions will be given based on Wavier Points.
+5. Priority for additions will be given based on Wavier Points.
    * Waiver points are earned after Week 4 based on standings. Teams receive (24 - Standings Points) in Waiver points.
    * Waiver points can be lost by a team using their 1 call-up (4 points) or by adding a previously dropped minors player (2 points).
    * The more waiver points that a team has at the transaction deadline, the higher their priority is in selecting which MLTP drop they receive, if any.
-5. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
-6. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
+6. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
+7. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
 
 ### Section 7 - Loans
 1. Any current mLTP or NLTP player is eligible to be loaned by a MLTP team.
