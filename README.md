@@ -115,7 +115,7 @@
 2. No trades and limited roster transactions are allowed after the transaction deadline.
    * Teams may only add/call up a player after week 4 if the player being dropped consents to their season ending upon being dropped.
    * In the event that a team is missing a player or has a Gross Inactivity issue after week 4, they must contact a commissioner for a waiver to process a loan or add transaction.
-3. Roster transactions, aside from loans, will be locked at 12PM Eastern each week. Transactions will begin to be processed again at 12PM Eastern on Tuesday.
+3. Roster transactions, aside from loans, will be locked at 12PM Eastern each week. Transactions will begin to be processed again at 12PM Eastern on Monday for Majors and Tuesday for Minors.
 
 ### Section 4 - Trades
 1. Trades will go into effect once approved by the commissioners and posted to the #mltp-announcements channel in the Competitive TagPro Discord server. The GM must message the CRC once a trade form has been submitted. All submitted trades will either be approved or denied within 24 hours after submission.
