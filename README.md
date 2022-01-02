@@ -86,23 +86,39 @@ Minute restrictions will be published by the CRC before the draft begins.
     * The first map of the season will also be the last.
 
 ### Section 3 - Game Settings
-1. The settings from the "Competitive Settings" checkbox must be used for the first half. This includes:
+1. The following settings must be used for all MLTP matches:
 
-* 10 minute duration
-* No cap limit
-* User scripts disabled
-* Respawn warnings disabled
+   * 10 minute duration
+   * No overtime
+   * No capture limit
+   * No mercy rule
+   * User scripts disabled
+   * Respawn warnings disabled
+   * OT Bonus Juke Juices Disabled
+   * OT Respawn Increment Disabled
 
-2. Second half settings should be identical to first half settings except overtime should be turned on with the addition of these two settings:
+   All other settings should follow the default TagPro settings:
+   
+   * Acceleration: 100% (Default)
+   * Top Speed: 100% (Default)
+   * Bounciness: 100% (Default)
+   * Player Respawn: 3 Seconds (Default)
+   * Boost Respawn: 10 Seconds (Default)
+   * Bomb Respawn: 30 Seconds (Default)
+   * Power-up Respawn: 1 Minute (Default)
+   * Delay Power-ups for 1 Minute: Enabled
+   * Potato Timer: Disabled (Default)
+   * Next Pup Indicators: Enabled
+   * Rolling Bomb Behavior: Default
+   * All Powerups Enabled
+   * Combine Juke Juice and Rolling Bomb: Disabled
+   * Gravity: Disabled
 
-* OT Bonus Juke Juices Disabled
-* OT Respawn Increment Disabled
+2. Second half settings should be identical to first half settings except overtime should be turned on. The initial score must reflect the score at the end of the first half.
 
-The initial score must reflect the score at the end of the first half. 
+3. The [Competitive Stats userscript](https://github.com/Poeticalto/tagpro-comp-stats/raw/stable/tagpro_competitive_stats.user.js) should be used to facilitate group setup and assist with second half setup.
 
-Using the competitive stat user script allows you to easily toggle these settings on and off without manual input. 
-
-3. The server will default to Dallas-3. In the event Dallas-3 is unusable, use the Dallas server. (This section is subject to change as the servers are modified during the season.) 
+4. The server will default to Dallas-3. In the event Dallas-3 is unusable, use the Dallas server. (This section is subject to change as the servers are modified during the season.) 
 
 
 ## Article III - Rosters
