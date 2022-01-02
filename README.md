@@ -1,6 +1,6 @@
 # Major League TagPro Rules
 
-## Season 25
+## Season 26
 
 <img src="https://i.imgur.com/I4DiXzJl.png" alt="MLTP Logo" height="200"></img>
 
@@ -34,6 +34,8 @@
 5. Duties of the League Manager:
     * Creating the schedule for the season
     * Creating the materials and running the draft
+    * Oversees Ball of Fame and awards voting
+    * Arbiter for transition of power
 
 ### Section 3 - General Managers and Captains
 1. Each MLTP and mLTP franchise shall have a General Manager (GM).
@@ -63,35 +65,45 @@
     * Are unavailable for playoffs
     * Have an active ban from MLTP
 3. Restrictions from majors and minors will be made for players that list that they are unavailable to play on the default game day (Sunday and Monday respectively).
-4. No position or mic restrictions will be enforced in M/mLTP.
-5. Player comments about availability may be used to restrict a player's total allowed minutes for a season.
-    * Minute restrictions will be published by the CRC before the draft begins.
+4. Position restrictions will be enforced in M/mLTP
+5. Mic restrictions will not be enforced in M/mLTP
+6. Player comments about availability may be used to restrict a player's total allowed minutes for a season.
+Minute restrictions will be published by the CRC before the draft begins.
 
 ## Article II - League Structure
 
 ### Section 1 - Teams
-1. There will be 8 MLTP franchises and 8 mLTP franchises.
-2. Each franchise will consistent of four (4) players each. 
+1. There will be 10 MLTP franchises and 10 mLTP franchises.
+2. Each franchise will consist of four (4) players.
 3. MLTP and mLTP franchises will not be affiliated.
 
 ### Section 2 - Maps
-1. The CRC will run a vote to select the maps. Each player will vote for seven maps from a pool of maps played in the last 5 seasons and some new maps.
-    * Of the seven maps played, at least one must be of the "tweaked" variety (small change from previous base map) and at least one must be a TPM map
-3. The number of maps played will be equal to the number of weeks in the regular season.
-4. Each map in the MLTP rotation will be played for two games.
-5. Two maps will be played per week.
+1. The CRC will choose four maps and organize a GM vote for the remaining three maps.
+2. The number of maps played will be equal to the number of weeks in the regular season.
+3. Each map in the MLTP rotation will be played for two games.
+4. Two maps will be played per week.
     * The first map of a week will be the second map from the previous week.
     * The first map of the season will also be the last.
 
 ### Section 3 - Game Settings
 1. The settings from the "Competitive Settings" checkbox must be used for the first half. This includes:
-    * 10 minute duration
-    * No cap limit
-    * User scripts disabled
-    * Respawn warnings disabled
-2. Second half settings should be identical to first half settings except Overtime should be turned on (with OT Juke Juice off and Respawn increment off) and the initial score must reflect the score at the end of the first half.
-3. The server will default to Dallas, TX.
-    * Dallas-2 should only be used in the event that the primary Dallas server is unavailable or experiencing significant connectivity issues. 
+
+* 10 minute duration
+* No cap limit
+* User scripts disabled
+* Respawn warnings disabled
+
+2. Second half settings should be identical to first half settings except overtime should be turned on with the addition of these two settings:
+
+* OT Bonus Juke Juices Disabled
+* OT Respawn Increment Disabled
+
+The initial score must reflect the score at the end of the first half. 
+
+Using the competitive stat user script allows you to easily toggle these settings on and off without manual input. 
+
+3. The server will default to Dallas-3. In the event Dallas-3 is unusable, use the Dallas server. (This section is subject to change as the servers are modified during the season.) 
+
 
 ## Article III - Rosters
 
@@ -108,10 +120,10 @@
 1. Any player banned from TagPro is also banned from playing MLTP for the duration of their ban.
 2. If a player is added to a Majors roster from a Minors roster, they will be eligible to play for both the MLTP and mLTP teams for the remainder of the season.
 3. If a player is dropped from a Majors roster and added to a Minors roster during the transaction deadline, they will be ineligible to play MLTP (apart from loans) for the remainder of the season. If they opt not to be added to a Minors roster then they remain eligible to be called up.
-4. Players are ineligible to play MLTP if their S25 signup indicated that they were unavailable on Sundays. Players are ineligible to play mLTP if their S25 signup indicated they were unavailable on Mondays.
+4. Players are ineligible to play MLTP if their S26 signup indicated that they were unavailable on Sundays. Players are ineligible to play mLTP if their S25 signup indicated they were unavailable on Mondays.
 
 ### Section 3 - Transaction Deadline
-1. The transaction deadline will occur 24-48 hours after the last Minors match of Week 4, approximately 10/7/2021 at Midnight ET. The exact deadline will be communicated after the conclusion of Week 4 matches.
+1. The transaction deadline will occur 24-48 hours after the last Minors match of Week 4. The exact deadline will be communicated after the conclusion of Week 4 matches.
 2. No trades and limited roster transactions are allowed after the transaction deadline.
    * Teams may only add/call up a player after week 4 if the player being dropped consents to their season ending upon being dropped.
    * In the event that a team is missing a player or has a Gross Inactivity issue after week 4, they must contact a commissioner for a waiver to process a loan or add transaction.
@@ -121,7 +133,7 @@
 1. Trades will go into effect once approved by the commissioners and posted to the #mltp-announcements channel in the Competitive TagPro Discord server. The GM must message the CRC once a trade form has been submitted. All submitted trades will either be approved or denied within 24 hours after submission.
 
 ### Section 5 -  Add/Drop Transactions
-1. M/mLTP teams will be limited to calling up one player per team until the transaction deadline, and may only add players afterwards if the dropped player consents to their season being over in all leagues. This limit does not include the addition of Majors drops in week 4 for minors teams.
+1. M/mLTP teams will be able to add or drop players until the transaction deadline, and may only add players afterwards if the dropped player consents to their season being over in all leagues. 
    * Teams can appeal to the CRC on a case-by-case basis in the event they believe they need to add another player.
 2. MLTP teams can add players from mLTP, NLTP, players dropped by other MLTP teams, or the pool of players with Sunday availability who were not drafted to Majors and are not playing in another league.
 3. mLTP teams can add players from NLTP, players dropped by other mLTP teams, or the pool of players with Monday availability who were not drafted to Minors and are not playing in another league.
@@ -131,12 +143,9 @@
 ### Section 6 - MLTP Drops
 1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 4 if they are not picked back up by another MLTP team (before the deadline).
 2. They must be dropped 48 hours before roster transactions lock (12PM Eastern on Sundays. Drops must occur by 12PM Eastern on Friday.) to be eligible for the upcoming week's matches.
-5. Priority for additions will be given based on Wavier Points.
-   * Waiver points are earned after Week 4 based on standings. Teams receive (24 - Standings Points) in Waiver points.
-   * Waiver points can be lost by a team using their 1 call-up (4 points) or by adding a previously dropped minors player (2 points).
-   * The more waiver points that a team has at the transaction deadline, the higher their priority is in selecting which MLTP drop they receive, if any.
-6. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
-7. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
+3. Priority for additions will be given in reverse order of the standings. If a mLTP team elects to call up a player in the week 4 transaction period, then they will not be eligible to add an MLTP drop in the Week 4 transaction period unless all other teams opt to not add the dropped player.
+4. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
+5. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
 
 ### Section 7 - Loans
 1. Any current mLTP or NLTP player is eligible to be loaned by a MLTP team.
@@ -154,25 +163,25 @@
 ## Article IV - Drafts
 
 ### Section 1 - Deadlines
-1. The deadline to add or remove a signup for Season 25 of MLTP is August 27th, 2021 at 11:59pm ET.
+1. The deadline to add or remove a signup for Season 26 of MLTP is December 30th, 11:59 ET.
 
 ### Section 2 - Draft Format
-1. The Majors Auction Draft will take place on Sunday, August 29th, time TBA.
+1. The Majors Auction Draft will take place on Sunday, January 2nd, time 9:30 ET.
     * The Majors Auction Draft will continue until every roster has a total of 4 players.
-2. The Minors Auction Draft will take place on Monday, August 30th, time TBA.
+2. The Minors Auction Draft will take place on Monday, January 3rd, time TBA.
     * The Minors Auction Draft will continue until every roster has a total of 4 players.
 3. For the MLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
 4. For the mLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
 5. If a player is nominated, the nominating captain is not required to bid on that player.
 6. The nomination order will be randomized prior to the start of the draft. If a team has already reached its maximum roster limit, then their nomination will be skipped.
 7. There is no maximum bid. The minimum bid is 0. 
-8. Max bid ties will be resolved by spinning the wheel.
+8. Max possible bid ties will be resolved by spinning the wheel.
 
 ## Article V - Matches
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
-2. For each game teams will default to Dallas, TX. 
+2. For each game teams will default to Dallas-3. 
 3. In the event of a tie after two halves, games will transition immediately into a golden cap overtime as a continuation of the second half unless previously agreed upon by GMs to settle the overtime in a different manner.
     * Captains may mutually agree to use a 5 minute overtime half format. These agreements can happen before any second half starts.
         * Once 5 minute halves are decided on, teams may not go back to golden cap until the conclusion of an overtime period where the teams are still tied.
@@ -197,7 +206,7 @@
 
 ### Section 4 - Scheduling
 1. Matches are scheduled for Sunday by default for Majors and Monday by default for Minors.
-2. Games may not be rescheduled more than two days past the default gametime.
+2. Games may not be rescheduled more than four days past the default gametime, without CRC approval. 
 3. Default times for matches will be based on an average of captains' desired start times as listed at the beginning of the season.
 4. The default time must be used if an alternative cannot be agreed upon.
 5. Changes from the default game time must be explicitly agreed upon in writing by the captain of each team. Once done, this becomes the new default day/time for that match.
@@ -264,23 +273,22 @@ _Note: [This is a fun game, and a fun league. We are here to have a good time an
         * Excessive insults
         * Pornographic linkings
 4. Do not personally attack others. Trash talk is not meant to be directed at an individual’s life outside of TagPro.
-5. In rare cases, inappropriate out of league behavior may lead to CRC action.
-6. Players need to be respectful of the other team when typing during a match.
-7. Disciplinary action can be any of the following:
+5. Players need to be respectful of the other team when typing during a match.
+6. Disciplinary action can be any of the following:
     * Private Warning
     * Public Warning
     * Suspension
     * Lifetime Ban
-8. Players who quit or attempt to manipulate away from their team may receive an indefinite ban on a case-by-case basis.
-9. Punishments are determined on a case-by-case basis by the CRC.
+7. Players who quit or attempt to manipulate away from their team may receive an indefinite ban on a case-by-case basis.
+8. Punishments are determined on a case-by-case basis by the CRC.
 
 ## Article VIII - Playoffs
 
 ### Section 1 - Playoff Rounds
-1. The top 6 teams from majors and minors will make playoffs.
+1. The top 8 teams from majors and minors will make playoffs.
 2. There will be 3 rounds for playoffs:
-    * Quarterfinals (Secant Six)
-        * The top two teams will have a bye. The third seeded team will choose their opponent from either the fifth or sixth seeded team, with the fourth seeded team playing the last remaining team not chosen.
+    * Quarterfinals (Equidistant Eight)
+        * The top four seeded teams will choose their opponents in order from any of the lower four seeded teams. 
     * Semifinals (Foci Four)
         * The top two seeded teams will choose their opponents in order from any of the remaining lower two seeded teams.
     * Finals (Superball/Muperball)
