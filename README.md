@@ -189,7 +189,7 @@ Minute restrictions will be published by the CRC before the draft begins.
 3. For the MLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
 4. For the mLTP Auction Draft each franchise will be allocated 200 TagCoins (TC) to bid on players with.
 5. If a player is nominated, the nominating captain is not required to bid on that player.
-6. The nomination order will be randomized prior to the start of the draft. If a team has already reached its maximum roster limit, then their nomination will be skipped.
+6. The nomination order will be randomized prior to the start of the draft and be a snake format. If a team has already reached its maximum roster limit, then their nomination will be skipped.
 7. There is no maximum bid. The minimum bid is 0. 
 8. Max possible bid ties will be resolved by spinning the wheel.
 
