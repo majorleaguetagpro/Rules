@@ -143,7 +143,7 @@ Minute restrictions will be published by the CRC before the draft begins.
 2. No trades and limited roster transactions are allowed after the transaction deadline.
    * Teams may only add/call up a player after week 4 if the player being dropped consents to their season ending upon being dropped.
    * In the event that a team is missing a player or has a Gross Inactivity issue after week 4, they must contact a commissioner for a waiver to process a loan or add transaction.
-3. Roster transactions, aside from loans, will be locked at 12PM Eastern on game day each week. Transactions will begin to be processed again at 12PM Eastern on Monday for Majors and Tuesday for Minors.
+3. Roster transactions, aside from loans, will be locked at 12PM Eastern on game day each week. Transactions will begin to be processed again at 11:59p ET.
 
 ### Section 4 - Trades
 1. Trades will go into effect once approved by the commissioners and posted to the #mltp-announcements channel in the Competitive TagPro Discord server. The GM must message the CRC once a trade form has been submitted. All submitted trades will either be approved or denied within 24 hours after submission.
@@ -154,11 +154,12 @@ Minute restrictions will be published by the CRC before the draft begins.
 2. MLTP teams can add players from mLTP, NLTP, players dropped by other MLTP teams, or the pool of players with Sunday availability who were not drafted to Majors and are not playing in another league.
 3. mLTP teams can add players from NLTP, players dropped by other mLTP teams, or the pool of players with Monday availability who were not drafted to Minors and are not playing in another league.
 4. Teams must use the transaction form to complete their transactions. Transactions become official when posted to #mltp-announcements.
-5. Players who have been dropped from another team's roster must be dropped 48 hours before roster transactions lock (12PM Eastern on Sunday) to be eligible to be added for the upcoming week's matches.
+5. There will be a rolling free agency period where transactions will be processed daily at 11:59 PM ET. There is still a roster transactions lock on Sunday at 12PM ET where any changes will need CRC approval.
+6. A player may reject a call up but will forfeit the ability to be called up to another team this season.
 
 ### Section 6 - MLTP Drops
 1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 4 if they are not picked back up by another MLTP team (before the deadline).
-2. They must be dropped 48 hours before roster transactions lock (12PM Eastern on Sundays. Drops must occur by 12PM Eastern on Friday.) to be eligible for the upcoming week's matches.
+2. They must be dropped before roster transactions lock (12PM Eastern on Sundays) to be eligible for the upcoming week's matches.
 3. Priority for additions will be given in reverse order of the standings. If a mLTP team elects to call up a player in the week 4 transaction period, then they will not be eligible to add an MLTP drop in the Week 4 transaction period unless all other teams opt to not add the dropped player.
 4. Dropped players can opt to not be eligible for addition to a Minors roster. They are automatically ineligible if they signed up as unavailable on Mondays.
 5. Once added to a Minors team, players may not be called back up to a Majors team apart from a one-week loan.
@@ -175,6 +176,7 @@ Minute restrictions will be published by the CRC before the draft begins.
 6. Players can only be loaned after the roster transaction deadline if the loan is being used to cover for another player's availability issues.
 7. A team may not hot-sub a player that they previously loaned.
    * If a player is hot-subbed in, a decision will be made by the CRC as to whether it counts as the player being loaned. (case-by-case, depending mainly on time played)
+8. If a player rejects the opportunity to be loaned to a team in a week, they will not be allowed to be loaned to a different team for that same week.
 
 ## Article IV - Drafts
 
